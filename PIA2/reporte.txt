@@ -1,0 +1,7 @@
+Reporte del escaneo:
+Dirección IP: 192.168.0.5
+Fecha y hora: Sun Sep 29 22:42:19 CST 2024
+
+Puerto 22: Fallido
+Puerto 80: Fallido
+Puerto 443: Fallido

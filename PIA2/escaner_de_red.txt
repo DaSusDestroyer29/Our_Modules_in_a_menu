@@ -1,0 +1,16 @@
+=== Reporte de Escaneo de Red ===
+Nombre de la red (SSID): IZZI-C92B
+
+Paquetes consumidos por la interfaz de red:
+        RX packets 0  bytes 0 (0.0 B)
+        TX packets 0  bytes 0 (0.0 B)
+        RX packets 88  bytes 6960 (6.7 KiB)
+        TX packets 88  bytes 6960 (6.7 KiB)
+        RX packets 158345  bytes 156921488 (149.6 MiB)
+        TX packets 62046  bytes 11947124 (11.3 MiB)
+
+Dirección IP:
+    inet 192.168.0.5/24 brd 192.168.0.255 scope global dynamic noprefixroute wlan0
+
+Equipos conectados a la red local:
+? (192.168.0.1) at fc:ae:34:ce:4c:87 [ether] on wlan0
